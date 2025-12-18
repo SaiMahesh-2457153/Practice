@@ -1,0 +1,11 @@
+*
+{
+    background-color: brown;
+}
+p{
+    color: antiquewhite;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    border-color: blue;
+}
